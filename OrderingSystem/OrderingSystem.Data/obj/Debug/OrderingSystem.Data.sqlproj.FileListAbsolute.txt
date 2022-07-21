@@ -1,0 +1,10 @@
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\bin\Debug\OrderingSystem.Data.dacpac
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\bin\Debug\OrderingSystem.Data.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\bin\Debug\OrderingSystem.Data.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\OrderingSystem.Data.sqlproj.AssemblyReference.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\Model.xml
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\refactor.xml
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\postdeploy.sql
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\predeploy.sql
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\OrderingSystem.Data.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\Ordering-System\OrderingSystem\OrderingSystem.Data\obj\Debug\OrderingSystem.Data.pdb
